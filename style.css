@@ -24,7 +24,7 @@ body {
   background-color: var(--body-bcg);
   font-size: 1.5rem;
 }
-.container {
+main {
   display: grid;
   place-content: center;
   min-height: 100vh;
